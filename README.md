@@ -61,8 +61,11 @@ Run the analysis -- execute the provided R script to reproduce results:
 
 ## Key Findings
 Seasonal Trends: Significant seasonal effects were observed in specific months (e.g., May, August, and November).
+
 Best Model Fit: Linear regression was determined to be the best fit for the trend component due to its simplicity and statistical significance.
+
 Forecasting Performance: Holt-Winters additive smoothing provided robust forecasts with accurate trend and seasonality representation.
+
 Decomposition: Successfully decomposed data into trend, seasonality, and noise components for better insights.
 
 ## Future Work
